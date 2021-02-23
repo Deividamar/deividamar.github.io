@@ -1,0 +1,97 @@
+[
+    {
+        "fylke": "Oppland",
+        "navn": "Galdhøpiggen",
+        "hoyde": "2469m"
+    },
+    {
+        "fylke": "Sogn og Fjordane",
+        "navn": "Store Skagastølstinden",
+        "hoyde": "2405m"
+    },
+    {
+        "fylke": "Hedmark",
+        "navn": "Rondslottet",
+        "hoyde": "2178m"
+    },
+    {
+        "fylke": "Møre og Romsdal",
+        "navn": "Pyttegga",
+        "hoyde": "1999m"
+    },
+    {
+        "fylke": "Sør-Trøndelag",
+        "navn": "Storskrymten",
+        "hoyde": "1985m"
+    },
+    {
+        "fylke": "Buskerud",
+        "navn": "Folarskardnuten",
+        "hoyde": "1933m"
+    },
+    {
+        "fylke": "Nordland",
+        "navn": "Oksskolten",
+        "hoyde": "1915m"
+    },
+    {
+        "fylke": "Telemark",
+        "navn": "Gaustatoppen",
+        "hoyde": "1883m"
+    },
+    {
+        "fylke": "Hordaland",
+        "navn": "Hardangerjøkulen",
+        "hoyde": "1861m"
+    },
+    {
+        "fylke": "Troms",
+        "navn": "Jiehkkevárri",
+        "hoyde": "1834m"
+    },
+    {
+        "fylke": "Rogaland",
+        "navn": "Vassdalseggi",
+        "hoyde": "1658m"
+    },
+    {
+        "fylke": "Nord-Trøndelag",
+        "navn": "Jetnamsklumpen",
+        "hoyde": "1512m"
+    },
+    {
+        "fylke": "Aust-Agder",
+        "navn": "Sæbyggjenuten",
+        "hoyde": "1507m"
+    },
+    {
+        "fylke": "Vest-Agder",
+        "navn": "Urdalsknuten",
+        "hoyde": "1433m"
+    },
+    {
+        "fylke": "Finnmark",
+        "navn": "Øksfjordjøkelen",
+        "hoyde": "1191m"
+    },
+    {
+        "fylke": "Akershus",
+        "navn": "Fjellsjøkampen",
+        "hoyde": "812m"
+    },
+    {
+        "fylke": "Vestfold",
+        "navn": "Vestfjellet",
+        "hoyde": "634m"
+    },
+    {
+        "fylke": "Oslo",
+        "navn": "Kjerkeberget",
+        "hoyde": "630m"
+    },
+    {
+        "fylke": "Østfold",
+        "navn": "Slavasshøgda",
+        "hoyde": "336m"
+    }
+]
